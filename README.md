@@ -76,5 +76,5 @@ Funcionalidades já implementadas:
 - **ChatGPT** → apoio na geração de ideias, estruturação de requisitos e PRD.  
 
 ---
-
-  
+- Fotos do app:
+  https://mail.google.com/mail/u/0?ui=2&ik=8d65f9037f&attid=0.1&permmsgid=msg-f:1856789746603757568&th=19c4a46fd4e79000&view=att&disp=safe&realattid=19c4a441fd815d351b1&zw
