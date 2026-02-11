@@ -1,7 +1,7 @@
 # 🍧 Gela Cuca - MVP Delivery de Açaí
 
 ## 📖 Conceito
-Aplicativo de uso fácil e prático para pedidos rápidos de delivery de açaí da loja **Gela Cuca**, com venda e cliente real.  
+Aplicativo de uso fácil e prático para pedidos rápidos de delivery de açaí da loja **Açaí Gela Cuca**, com venda e cliente real.  
 **Diferencial:** funciona de forma autônoma, sem necessidade de usar outros apps de delivery.
 
 ---
